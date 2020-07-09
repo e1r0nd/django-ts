@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/e1r0nd/.local/share/virtualenvs/django-mypy-graphene-react-ts-heroku-D0FkuSJd/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true
+}
